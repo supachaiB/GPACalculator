@@ -1,0 +1,17 @@
+C:\Users\Admins\source\repos\GPAxCalculator\GPAxCalculator\GPAxCalculator\obj\Debug\net6.0-windows\GPAxCalculator.csproj.AssemblyReference.cache
+C:\Users\Admins\source\repos\GPAxCalculator\GPAxCalculator\GPAxCalculator\obj\Debug\net6.0-windows\GPAxCalculator.Form1.resources
+C:\Users\Admins\source\repos\GPAxCalculator\GPAxCalculator\GPAxCalculator\obj\Debug\net6.0-windows\GPAxCalculator.csproj.GenerateResource.cache
+C:\Users\Admins\source\repos\GPAxCalculator\GPAxCalculator\GPAxCalculator\obj\Debug\net6.0-windows\GPAxCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admins\source\repos\GPAxCalculator\GPAxCalculator\GPAxCalculator\obj\Debug\net6.0-windows\GPAxCalculator.AssemblyInfoInputs.cache
+C:\Users\Admins\source\repos\GPAxCalculator\GPAxCalculator\GPAxCalculator\obj\Debug\net6.0-windows\GPAxCalculator.AssemblyInfo.cs
+C:\Users\Admins\source\repos\GPAxCalculator\GPAxCalculator\GPAxCalculator\obj\Debug\net6.0-windows\GPAxCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Admins\source\repos\GPAxCalculator\GPAxCalculator\GPAxCalculator\bin\Debug\net6.0-windows\GPAxCalculator.exe
+C:\Users\Admins\source\repos\GPAxCalculator\GPAxCalculator\GPAxCalculator\bin\Debug\net6.0-windows\GPAxCalculator.deps.json
+C:\Users\Admins\source\repos\GPAxCalculator\GPAxCalculator\GPAxCalculator\bin\Debug\net6.0-windows\GPAxCalculator.runtimeconfig.json
+C:\Users\Admins\source\repos\GPAxCalculator\GPAxCalculator\GPAxCalculator\bin\Debug\net6.0-windows\GPAxCalculator.dll
+C:\Users\Admins\source\repos\GPAxCalculator\GPAxCalculator\GPAxCalculator\bin\Debug\net6.0-windows\GPAxCalculator.pdb
+C:\Users\Admins\source\repos\GPAxCalculator\GPAxCalculator\GPAxCalculator\obj\Debug\net6.0-windows\GPAxCalculator.dll
+C:\Users\Admins\source\repos\GPAxCalculator\GPAxCalculator\GPAxCalculator\obj\Debug\net6.0-windows\ref\GPAxCalculator.dll
+C:\Users\Admins\source\repos\GPAxCalculator\GPAxCalculator\GPAxCalculator\obj\Debug\net6.0-windows\GPAxCalculator.pdb
+C:\Users\Admins\source\repos\GPAxCalculator\GPAxCalculator\GPAxCalculator\obj\Debug\net6.0-windows\GPAxCalculator.genruntimeconfig.cache
+C:\Users\Admins\source\repos\GPAxCalculator\GPAxCalculator\GPAxCalculator\obj\Debug\net6.0-windows\refint\GPAxCalculator.dll
